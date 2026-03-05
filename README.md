@@ -67,7 +67,7 @@ customer attributes:
 
 | File | Contents |
 |---------------|----------|
-| `notebook.ipynb` | Analysis and modelling notebook (ipynb) |
-| `notebook.html` | Analysis and modelling notebook (html) |
+| `IDS_Group_A_Notebook.ipynb` | Analysis and modelling notebook (ipynb) |
+| `IDS_Group_A_Notebook.html` | Analysis and modelling notebook (html) |
 | `customer.csv` | Data of the analysis |
 | `README.md` | This file |
